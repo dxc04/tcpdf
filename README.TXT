@@ -1,8 +1,8 @@
 TCPDF - README
 ============================================================
 
-I WISH TO IMPROVE AND EXPAND TCPDF BUT I NEED YOUR SUPPORT.
-PLEASE MAKE A DONATION:
+IF YOU'D LIKE TO SUPPORT TCPDF, PLEASE CONSIDER MAKING A 
+DONATION: 
 http://sourceforge.net/donate/index.php?group_id=128076
 
 ------------------------------------------------------------
